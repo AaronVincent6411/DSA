@@ -86,4 +86,4 @@ brew install python3
 End of installation lets head to basics python variables, constants etc
 
 #### Next
-[Python Variables and Constants](./Python%20Variables%20and%20Constants.md)
+[Python Variables and Constants](./2Python%20Variables%20and%20Constants.md)
