@@ -79,7 +79,7 @@ Now lets print a boolean type
 
 ```
 ###### Next
-[Block Indentation](./Block%20Indentation.md)
+[Block Indentation](./4Block%20Indentation.md)
 
 ###### Previous
-[Python Variables and Constants](./Python%20Variables%20and%20Constants.md)
+[Python Variables and Constants](./2Python%20Variables%20and%20Constants.md)
